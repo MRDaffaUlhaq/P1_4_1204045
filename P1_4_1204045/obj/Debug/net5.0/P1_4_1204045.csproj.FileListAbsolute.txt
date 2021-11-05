@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\bin\Debug\net5.0\P1_4_1204045.exe
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\bin\Debug\net5.0\P1_4_1204045.deps.json
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\bin\Debug\net5.0\P1_4_1204045.runtimeconfig.json
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\bin\Debug\net5.0\P1_4_1204045.runtimeconfig.dev.json
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\bin\Debug\net5.0\P1_4_1204045.dll
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\bin\Debug\net5.0\ref\P1_4_1204045.dll
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\bin\Debug\net5.0\P1_4_1204045.pdb
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\obj\Debug\net5.0\P1_4_1204045.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\obj\Debug\net5.0\P1_4_1204045.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\obj\Debug\net5.0\P1_4_1204045.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\obj\Debug\net5.0\P1_4_1204045.AssemblyInfo.cs
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\obj\Debug\net5.0\P1_4_1204045.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\obj\Debug\net5.0\P1_4_1204045.dll
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\obj\Debug\net5.0\ref\P1_4_1204045.dll
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\obj\Debug\net5.0\P1_4_1204045.pdb
+C:\Users\user\source\repos\P1_4_1204045\P1_4_1204045\obj\Debug\net5.0\P1_4_1204045.genruntimeconfig.cache
